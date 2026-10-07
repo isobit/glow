@@ -131,6 +131,8 @@ Markdown files can be read with Glow's high-performance pager. Most of the
 keystrokes you know from `less` are the same, but you can press `?` to list
 the hotkeys.
 
+Mermaid code fences tagged `mermaid` are rendered as terminal diagrams.
+
 ## The CLI
 
 In addition to a TUI, Glow has a CLI for working with Markdown. To format a
